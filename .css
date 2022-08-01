@@ -1,0 +1,285 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow&display=swap');
+*{
+    font-family: 'Roboto', sans-serif;
+}
+.one{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 24px;
+}
+.two{
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-gap: 25px;
+    margin-top: 80px;
+}
+header{
+    width: 100%;
+    height: 75px;
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.bac{
+    background-image: url('./img/Rectangle\ \(1\).png');
+    width: 1440px;
+    height: 504px;
+    display: block;
+    align-items: center;
+}
+.bac span{
+    color: white;
+}
+.o{
+    font-size: 43px;
+}
+.a{
+    font-size: 15px;
+}
+.i{
+    font-size: 13px;
+}
+.eee{
+    margin-top: 12px;
+}
+.eeee{
+    margin-top: 28px;
+}
+.div{
+    height: 188px;
+}
+.one1{
+    margin-left: 30px;
+}
+.three{
+    margin-right: 30px;
+}
+.texts{
+    display: block;
+}
+.div2{
+    height: 80px;
+}
+.g{
+    height: 23px;
+}
+.h{
+    height: 26px;
+}
+.all{
+    display: flex;
+    margin-left: 80px;
+}
+.all2{
+    display: block;
+} 
+.d{
+    margin-left: 25px;
+}
+.another1{
+    font-size: 27px;
+}
+.another{
+    margin-top: 48px;
+}
+.another2{
+    margin-top: 23px;
+}
+.gf{
+    font-size: 33px;
+}
+.op{
+    font-size: 15px;
+    color: #A0A0A0;
+}
+.divs{
+    margin-top: 130px;
+    display: block;
+}
+
+.press{
+    height: 16px;
+}
+.pres{
+    height: 52px;
+}
+
+.text{
+    display: flex;
+}
+.onet{
+    margin-top: 23px;
+    margin-left: 35px;
+}
+.twot, .threet, .fourt{
+    margin-left: 230px;
+    margin-top: 23px;
+}
+.threet{
+    margin-left: 240px;
+}
+.fourt{
+    margin-left: 260px;
+}
+.opacity{
+    color: #A0A0A0;
+}
+.image{
+    background-image: url('./img/Rectangle\ \(4\).png');
+    width: 1440px;
+    height: 504px;
+    margin-top: 95px;
+}
+.image span{
+    color: white;
+}
+.home1{
+    height: 174px;
+}
+.home span{
+    font-size: 66px;
+}
+.work{
+    margin-top: 14px;
+}
+.work span {
+    font-size: 14px;
+}
+.learn{
+    margin-top: 30px;
+}
+
+#made{
+    font-size: 34px;
+}
+.text1{
+    margin-top: 116px;
+}
+.our{
+    margin-top: 23px;
+}
+#our{
+    color: #A0A0A0;
+    font-size: 16px;
+}
+.imgg{
+    margin-top: 23px;
+}
+.text2{
+    margin-top: 38px;
+}
+
+.text3{
+    margin-top: 124px;
+}
+.made2{
+    margin-top: 44px;
+}
+
+.divv{
+    width: 1340px;
+    height: 404px;
+    background-color: #9AA8B1;
+    margin-top: 121px;
+}
+.divv span{
+    color: white;
+}
+.height{
+    height: 120px;
+}
+.textss{
+    margin-top: 24px;;
+}
+.textss span{
+    font-size: 43px;
+}
+.twospan{
+    margin-top: 23px;
+}
+footer{
+    width: 100%;
+    height: 468px;
+    background-color: #F9F9F9;
+    margin-top: 39px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.end{
+    margin-top: 77px;
+    display: flex;
+}
+.text0{
+    margin-left: 50px;
+}
+.text0 span{
+    font-size: 23px;
+}
+.text10{
+    margin-left: 35px;
+}
+.k{
+    height: 16px;
+}
+#new{
+    font-size: 22px;
+}
+.sign{
+    margin-top: 23px;
+}
+.j{
+    color: #A0A0A0;
+}
+.hr{
+    width: 320px;
+    height: 1px;
+    background-color: black;
+    margin-top: 91px;
+}
+
+.end2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    margin-bottom: 28px;
+    margin-right: 50px;
+}
+.year span{
+    font-size: 13px;
+    color: #707A7F;
+}
+.year{
+    margin-left: 37px;
+}
+.black{
+    font-size: 13px;
+    color: black;
+}
+.w{
+    width: 37px;
+}
+.fig{
+    position: absolute;
+    width: 82px;
+    height: 82px;
+    background-color: black;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    top: 5875px;
+}
+.fig span{
+    font-size: 16px;
+    color: white;
+}
+.cen{
+    margin-top: 22px;
+}
+.big{
+    max-width: 1440px;
+    margin: 0 auto;
+}
